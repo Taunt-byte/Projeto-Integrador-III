@@ -1,2 +1,3 @@
-# Projeto-Integrador-III
+# Aplicação web de um site que avalia entender os impactos no ensino causados pela COVID-19
  
+Esse projeto tem como objetivo o entender os impactos no ensino de modo geral causados pelo distanciamento social, decorrente da pandemia de covid-19 e mapear estratégias de ensino adotadas em plataformas de ensino à distância e diagnosticar perfis acadêmicos de alunos e professores com o uso de pln e data mining.
